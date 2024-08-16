@@ -1,12 +1,12 @@
-# ESP-NOW Protocol: Establishing Communication Between Two ESP32 Devices
-In this tutorial, I'll guide you through the process of using the ESP-NOW protocol to establish seamless communication between two ESP32 devices. ESP-NOW is a powerful protocol designed for low-power, peer-to-peer communication, making it ideal for IoT projects and sensor networks.
+# Cheap Internet Weather Station using LilyGo T-Display S3 
+This is another ESP32 Internet Weather station. This time I am using affordable (13.99 USD) board, LilyGo T-Display S3. My last "weather station" project is outdated so I decided to make new one. I hope you like this Black&White user interface.
 
 ## Parts used:
 LilyGO T-Display S3 [https://www.lilygo.cc/0cAg0r ](https://www.lilygo.cc/0cAg0r )   
 
 ## YOUTUBE VIDEO (click on image below)
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=wKs2BjljM3E
-" target="_blank"><img src="http://img.youtube.com/vi/wKs2BjljM3E/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VntDY9Mg7T0
+" target="_blank"><img src="http://img.youtube.com/vi/VntDY9Mg7T0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="320" border="10" /></a>
 #### Don't forget to subscribe! 
 
